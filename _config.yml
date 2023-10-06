@@ -1,25 +1,25 @@
 # Site settings
-title: F Blog
-SEOTitle: F 的博客 | BY Blog
+title: 御水路日记
+SEOTitle: 御水路日记
 header-img: img/post-bg-desk.jpg
 email: fanyigao@qq.com
-description: "Every failure is leading towards success."
-keyword: "F, C++"
+# description: "Every failure is leading towards success."
+keyword: "御水路, C++"
 url: "http://YigaoFan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/YigaoFan/YigaoFan.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+# sidebar: true                           # whether or not using Sidebar.
+# sidebar-about-description: "Goals determine what you going to be!"
+# sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     fan-yi-gao-44
+# zhihu_username:     fan-yi-gao-44
 github_username:    YigaoFan
 #facebook_username:  
 #jianshu_username:   
@@ -93,17 +93,17 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
+    # {
+    #     title: "WY",
+    #     href: "http://zhengwuyang.com"
+    # },{
+    #     title: "简书·BY",
+    #     href: "http://www.jianshu.com/u/e71990ada2fd"
+    # },{
+    #     title: "Apple",
+    #     href: "https://apple.com"
+    # },{
+    #     title: "Apple Developer",
+    #     href: "https://developer.apple.com/"
+    # }
 ]
